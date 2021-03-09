@@ -1,16 +1,25 @@
-# photographerWebsite
-This website is a project made for fun by me. This website should be good for any photographer.
+# photographer webapp
+This webapp is a project made for fun by me. This webapp should be good for any photographer.
 The project will be updated, this is just the first version.
+# Requirement
+PHP, mySQL, Apache server, XAMPP
 
- Website is responsive and includes:
-•	Home, Contact and Porfolio page
-• Admin Login page
-• Admin Portfolio page
-• Admin Message page
-• Admin Add new picture page
-• Admin Edit page (for now it only can delete one record from database when it's clicked on link named Delete)
+# Installation
+1. Clone it
+2. Unzip the rar file
+3. Copy unzip folder into ''htdocs'' folder
+4. Start it from localhost in your browser
+5. Enjoy :)
 
-Screenshots of website:
+ Webapp is responsive and includes:
+1.	Home, Contact and Porfolio page
+2. Admin Login page
+3. Admin Portfolio page
+4. Admin Message page
+5. Admin Add new picture page
+6. Admin Edit page (for now it only can delete one record from database when it's clicked on link named Delete)
+
+Screenshots of webapp:
 Home page
 ![](screenshots/photographerHome.JPG)
 
